@@ -1,4 +1,4 @@
-# 👋 Hi, I'm 程序员Eighteen 封灵天
+# 👋 Hi, I'm 程序员Eighteen
 
 ## 🚀 关于我
 
