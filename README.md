@@ -81,7 +81,7 @@
 |------|------|
 | 🎯 总项目数 | 25+ |
 | 💻 主要技术 | Spring Boot, Vue 3, Rust, AI/LLM |
-| 🏆 代表作 | DeepAgent-Studio (Rust), AgentMall, QimaoScraper |
+| 🏆 代表作 | DeepAgent-Studio (Rust), Ai_Test_Agent (Python) |
 | 📚 技术栈覆盖 | 全栈 + Rust + AI + 大数据 |
 
 </div>
