@@ -71,11 +71,20 @@
 
 - 💬 讨论技术方案、架构设计、AI 应用
 - 🔗 开源项目合作
-- �� 联系方式：请通过 GitHub 直接 issue 或 PR，或发送邮件
+- 📧 联系方式：请通过 GitHub 直接 issue 或 PR，或发送邮件
 
 ## 📊 统计
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eighteendreamer&show_icons=true&theme=radical)
+<div align="center">
+  
+| 指标 | 数值 |
+|------|------|
+| 🎯 总项目数 | 25+ |
+| 💻 主要技术 | Spring Boot, Vue 3, AI/LLM |
+| 🏆 代表作 | DeepAgent-Studio, AgentMall, QimaoScraper |
+| 📚 技术栈覆盖 | 全栈 + AI + 大数据 |
+
+</div>
 
 ---
 
