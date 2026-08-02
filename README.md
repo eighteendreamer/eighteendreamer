@@ -2,7 +2,7 @@
 
 ## 🚀 关于我
 
-全栈 AI 开发工程师，专注于**全栈应用开发 + AI应用集成**。热爱构建完整的业务系统和创意产品，对微服务架构、数据可视化、AI智能化应用有较为深入的理解。拥有20+个实战项目经验，涵盖电商、教育、企业管理、AI应用等多个领域。
+全栈 AI 开发工程师，专注于**全栈应用开发 + AI应用集成**。热爱构建完整的业务系统和创意产品，对微服务架构、数据可视化、AI智能化应用有较为深入的理解。
 
 ## 💼 核心技能
 
@@ -12,13 +12,36 @@
 - **数据**: MySQL, PostgreSQL, 数据仓库建设（Spark/Hive）, 数据可视化, 批处理系统
 - **其他**: 多租户 SaaS 系统, 支付对接, 微信小程序, 爬虫系统, 桌面应用开发
 
+## 🐳 Docker 镜像
+
+### BigData-PyTorch
+**[eighteenyear/bigdata-pytorch](https://hub.docker.com/repository/docker/eighteenyear/bigdata-pytorch/general)**
+
+一个综合的大数据与深度学习开发环境镜像，集成了：
+- **大数据框架**: Spark, Hadoop, Hive 等大数据处理引擎
+- **机器学习**: PyTorch, TensorFlow, Scikit-learn 等主流 ML 库
+- **数据分析**: Pandas, NumPy, Matplotlib 等数据科学工具
+- **开发工具**: Jupyter Notebook, Python 3.10+, conda 环境管理
+
+适用于：
+- 大数据分析与处理任务
+- 深度学习模型开发与训练
+- 数据科学实验与原型验证
+- 分布式计算环境搭建
+
+**快速使用**:
+```bash
+docker pull eighteenyear/bigdata-pytorch
+docker run -it eighteenyear/bigdata-pytorch:latest /bin/bash
+```
+
 ## 🌟 代表项目
 
 ### 🤖 AI 应用创新
-- **[DeepAgent-Studio](https://github.com/eighteendreamer/DeepAgent-Studio)** - DeepSeek 原生 Agent 运行时桌面 IDE，集成可验证运行时、上下文工程、MCP 等企业级能力，采用 Rust + Tauri + React 构建
-- **[Ai_Test_Agent](https://github.com/eighteendreamer/Ai_Test_Agent)** - 基于 LLM 的智能自动化测试平台，支持 15+ 主流大模型，内置 RAG 知识库和智能止损机制，适合企业级 QA
+- **[DeepAgent-Studio](https://github.com/eighteendreamer/DeepAgent-Studio)** - DeepSeek 原生 Agent 运行时桌面 IDE，集成可验证运行时、上下文工程、MCP 等企业级能力
+- **[Ai_Test_Agent](https://github.com/eighteendreamer/Ai_Test_Agent)** - 基于 LLM 的智能自动化测试平台，支持 15+ 主流大模型，内置 RAG 知识库和智能止损机制
 - **[Pantheon_Forge](https://github.com/eighteendreamer/Pantheon_Forge)** - 功能强大的 AI 智能体桌面应用（Flutter），支持多 LLM 提供商、灵活的会话管理和自定义选项
-- **[Countless_Star_Whispers](https://github.com/eighteendreamer/Countless_Star_Whispers)** - 定制大模型会话平台（Spring Boot 3 + Vue 3），支持多角色对话、流式响应、完整的会话管理
+- **[Countless_Star_Whispers](https://github.com/eighteendreamer/Countless_Star_Whispers)** - 定制大模型会话平台（Spring Boot 3 + Vue 3），支持多角色对话、流式响应、完整功能
 - **[End_of_term_revision](https://github.com/eighteendreamer/End_of_term_revision)** - AI 视觉模型智能期末复习系统，自动解析试题图片，支持智能练习和错题管理
 - **[EduAgent](https://github.com/eighteendreamer/EduAgent)** - 教育领域专用 Agent，为学生提供考研、考公、高考建议
 
@@ -31,8 +54,8 @@
 
 ### 📊 数据与可视化
 - **[CoffeeViz](https://github.com/eighteendreamer/CoffeeViz)** - 数据库架构可视化工具，支持 SQL 解析、JDBC 连接、AI 生成等方式，导出为 SVG/PNG 等多种格式
-- **[QimaoScraper](https://github.com/eighteendreamer/QimaoScraper)** - 网络小说数据仓库完整方案（ODS → DWD → ADS），从平台运营、作者创作、用户阅读、资本投资四大维度深度数据分析
-- **[nterprise-sales-engine](https://github.com/eighteendreamer/nterprise-sales-engine)** - 企业级销售数据批处理系统（Spring Batch 5 + Spring Boot 3 + Vue 3），销售流程全管理与数据分析报表自动化
+- **[QimaoScraper](https://github.com/eighteendreamer/QimaoScraper)** - 网络小说数据仓库完整方案（ODS → DWD → ADS），从平台运营、作者创作、用户阅读、资本投资等多维度数据分析
+- **[nterprise-sales-engine](https://github.com/eighteendreamer/nterprise-sales-engine)** - 企业级销售数据批处理系统（Spring Batch 5 + Spring Boot 3 + Vue 3），销售流程全管理
 
 ### 🏫 企业应用
 - **[CourseMatrix](https://github.com/eighteendreamer/CourseMatrix)** - 高校教务管理系统（毕设），覆盖课程、选课、成绩、考勤、数据统计等核心流程
