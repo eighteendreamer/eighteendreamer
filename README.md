@@ -32,7 +32,6 @@
 **快速使用**:
 ```bash
 docker pull eighteenyear/bigdata-pytorch
-docker run -it eighteenyear/bigdata-pytorch:latest /bin/bash
 ```
 
 ## 🌟 代表项目
