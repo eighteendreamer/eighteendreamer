@@ -15,7 +15,7 @@
 ## 🐳 Docker 镜像
 
 ### BigData-PyTorch
-**[eighteenyear/bigdata-pytorch](https://hub.docker.com/repository/docker/eighteenyear/bigdata-pytorch/general)**
+**[eighteenyear/bigdata-pytorch](https://hub.docker.com/r/eighteenyear/bigdata-pytorch)**
 
 一个综合的大数据与深度学习开发环境镜像，集成了：
 - **大数据框架**: Spark, Hadoop, Hive 等大数据处理引擎
